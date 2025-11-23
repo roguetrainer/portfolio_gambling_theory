@@ -327,6 +327,10 @@ Found interesting results? Consider:
 - Dubins & Savage (1965): How to Gamble If You Must
 - Merton (1969): Lifetime Portfolio Selection
 - Thorp (2006): Kelly Criterion Applications
+---
+
+![](../img/HTGIYM.jpg)
+---
 
 ## Get Help
 

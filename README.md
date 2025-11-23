@@ -2,6 +2,8 @@
 
 A comprehensive Python package exploring portfolio optimization criteria across single-period and infinite-horizon settings, with connections to optimal gambling strategies from Dubins & Savage's classic "How to Gamble If You Must" (1965).
 
+![Portfolio-gambling](./img/Portfolio-gambling.png)
+
 ## Overview
 
 This package implements and compares different approaches to portfolio selection and gambling strategies:
@@ -17,7 +19,9 @@ This package implements and compares different approaches to portfolio selection
 - **Merton Portfolio** (1969): Continuous-time optimization
 - **Dynamic Programming**: Finite-horizon optimal control
 - **Bold vs. Timid Play** (Dubins-Savage 1965): Subfair game strategies
-
+---
+![How to Gamble](./img/HTGIYM.jpg)
+---
 ## Quick Start
 
 ```bash
@@ -36,6 +40,6 @@ jupyter notebook
 ## Full documentation
 
 See `/docs/` directory for:
-- `theoretical_foundations.md`: Mathematical background
-- `implementation_guide.md`: Detailed usage guide
+- [`theoretical_foundations.md`](./docs/theoretical_foundations.md): Mathematical background
+- [`implementation_guide.md`](./docs/implementation_guide.md): Detailed usage guide
 - Example notebooks in `/notebooks/`

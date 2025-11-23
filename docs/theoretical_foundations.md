@@ -285,6 +285,8 @@ g(f) = p log(1 + fb) + (1-p) log(1 - f)
 7. Thorp, E. O. (2006). "The Kelly Criterion in Blackjack, Sports Betting and the Stock Market"
 8. Rockafellar, R. T., & Uryasev, S. (2000). "Optimization of CVaR"
 
+![](../img/HTGIYM.jpg)
+
 ## Summary Table
 
 | Criterion | Objective | Risk Measure | Horizon | Best For |
